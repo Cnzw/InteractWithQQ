@@ -1,9 +1,0 @@
-database:
-  enable: false
-  host: localhost
-  port: 3306
-  user: iwq
-  password: iwqiwq
-  database: iwq
-  table: iwq_player
-url: "ws://202.189.4.250:15961/all?verifyKey=1234566Abc&qq=3198807326"
